@@ -1,4 +1,4 @@
-// JavaScript Document
+﻿// JavaScript Document
 var Dianji=0;
 window.onload=function(){
 	var buhao = document.getElementById("buhao");
@@ -6,12 +6,12 @@ window.onload=function(){
 	buhao.onclick=function(){
 		Dianji++;
 		if(Dianji==1){
-	   			alert("小姐姐在考虑一下呗");
+	   			alert("我的仙女再考虑一下呗");
 	   }else if(Dianji==2){
-		   		alert("你是我见过的最帅气善良可爱的男孩");
+		   		alert("什么都依你");
 		   		
 	   }else if(Dianji==3){
-		   		alert("一生一世爱你");
+		   		alert("余生都爱你");
 		   		
 	   }else if(Dianji==4){
 		   		alert("家务我全干");
@@ -27,7 +27,7 @@ window.onload=function(){
 
 	}
 	hao.onclick=function(){
-		alert("小姐姐终于同意了，我爱你");
+		alert("哈哈哈，快打我电话1520466337");
 	}
 	
 
